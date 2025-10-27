@@ -129,3 +129,5 @@ The production-ready files will be in the `dist` directory and can be deployed t
 
 MIT
 
+**LINK TO THE APP**
+https://task-app-eight-topaz.vercel.app/
